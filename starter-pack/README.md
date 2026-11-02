@@ -1,22 +1,22 @@
-# [NAMA TIM] — Digital Problem Framing Mini Project
+# CodeSync — Digital Problem Framing Mini Project
 
 ## Tim
 
 | Nama | NIM | Phase Lead untuk Fase |
 |---|---|---|
-| [Nama 1] | [NIM] | Discover, Build |
-| [Nama 2] | [NIM] | Frame, Test |
-| [Nama 3] | [NIM] | Define, Communicate |
-| [Nama 4] | [NIM] | Design, Reflect |
+| Melicha Thasqee Nasya Afizha | 2600026069 | Frame, Design |
+| Eka Laili Rizki Yani | 2600016056 | Build, Reflect |
+| Muhammad Zahwan Abdillah | 2600016075 | Discover, Communicate |
+| Davyan Muhamad Iqbal | 2649016074 | Define, Test |
 
 > **Aturan**: Tim memakai **rotating phase lead** — tidak ada peran permanen. Setiap anggota memimpin minimal satu fase. Jadwal fase awal ditetapkan di WS01 dan dapat disesuaikan sepanjang semester.
 
 ## Objek Studi
 
-- **Nama Unit Usaha**: [contoh: Kantin Kampus "Makmur"]
-- **Lokasi**: [contoh: Gedung A, Lantai 1]
-- **Pemilik**: [nama, kontak]
-- **Jenis Usaha**: [contoh: Kantin / Warung / Koperasi]
+- **Nama Unit Usaha**: Brillian Laundry
+- **Lokasi**: Jl. Ki Ageng Pemanahan No. 10, Kragilan, Tamanan, Kec. Banguntapan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55191
+- **Pemilik**: Erna, 0882007602228
+- **Jenis Usaha**: Laundry 
 
 ## Driving Question
 

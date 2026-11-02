@@ -1,7 +1,7 @@
 # D1 — Problem Brief
 
-**Project**: Digital Problem Framing Mini Project — [Nama Unit Usaha]
-**Tim**: [Nama anggota] | **Tanggal**: [DD/MM/YYYY] | **Versi**: [v1.0]
+**Project**: Digital Problem Framing Mini Project — Brillian Laundry
+**Tim**: CodeSync | **Tanggal**: [DD/MM/YYYY] | **Versi**: [v1.0]
 **Template**: TPL-01
 
 > **Petunjuk**: Hapus teks dalam `[...]` dan huruf miring setelah diisi.
@@ -11,11 +11,11 @@
 
 ## 1. Profil Organisasi / Unit Usaha
 
-- **Nama unit usaha**: [nama]
-- **Jenis usaha / layanan**: [mis. kantin kampus, warung, koperasi, unit layanan kampus]
-- **Lokasi**: [lokasi]
+- **Nama unit usaha**: Brillian Laundry
+- **Jenis usaha / layanan**: Laundry
+- **Lokasi**: Jl. Ki Ageng Pemanahan No. 10, Kragilan, Tamanan, Kec. Banguntapan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55191
 - **Deskripsi singkat operasional**: [apa yang dilakukan, siapa pengguna, kapan beroperasi]
-- **Narahubung / pemilik**: [nama, jabatan, kontak]
+- **Narahubung / pemilik**: Erna, Pemilik, 0882007602228
 
 ## 2. Deskripsi Masalah Utama
 
