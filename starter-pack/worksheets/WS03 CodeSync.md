@@ -62,7 +62,7 @@ Gunakan lembar ini saat berada di lokasi mitra untuk mencatat secara kronologis 
 
 | **Indikator Pengukuran**                     | **Angka Baseline Hasil Observasi**             | **Satuan / Keterangan**                                      |
 | -------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------------ |
-| **Rata-rata Waktu Transaksi per Pelanggan**  | 5 menit                                        | Diukur menggunakan stopwatch untuk 3–5 sampel transaksi.     |
+| **Rata-rata Waktu Transaksi per Pelanggan**  | 10 menit                                        | Diukur menggunakan stopwatch untuk 3–5 sampel transaksi.     |
 | **Durasi Rekapitulasi Penjualan Harian**     | 60 menit                                       | Waktu yang dibutuhkan pemilik setiap malam untuk rekap nota. |
 | **Frekuensi Kesalahan Pencatatan / Selisih** | Setiap pemilik atau pelanggan itu sendiri lupa | Kejadian selisih nota fisik dengan fisik uang tunai.         |
 | **Jumlah Pelanggan pada Jam Sibuk**          | ±15 orang / hari tertentu                      | Beban transaksi puncak pada jam sibuk.                       |
