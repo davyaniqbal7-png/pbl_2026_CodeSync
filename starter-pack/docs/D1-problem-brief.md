@@ -19,9 +19,9 @@
 
 ## 2. Deskripsi Masalah Utama
 
-- **Masalah utama**: [pernyataan masalah yang jelas — fokus pada MASALAH, bukan solusi]
-- **Pihak yang terdampak**: [siapa terkena dampak dan bagaimana]
-- **Frekuensi / keparahan**: [kapan terjadi, seberapa sering, seberapa mengganggu]
+- **Masalah utama**: Pemilik usaha lelah merekap penjualan setiap malam
+- **Pihak yang terdampak**: Pemilik, Nota kertas harus dihitung ulang dengan kalkulator dan ditulis ke spreadsheet manual.
+- **Frekuensi / keparahan**: 60–90 menit/malam
 
 ## 3. Batasan Sistem (Scope)
 
