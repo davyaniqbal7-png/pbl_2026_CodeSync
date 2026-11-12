@@ -244,33 +244,39 @@ Related Files:
 *Dipenuhi dari hasil WS15.*
 
 ## AI Usage Disclosure & Verification Note
-**Project**: ... | **Tim**: ... | **Tanggal**: [DD/MM/YYYY]
+**Project**: Brillian Laundry | **Tim**: CodeSync | **Tanggal**: 11/11/2026
 
 ### 1. Daftar Penggunaan AI
 | Artefak | Tool AI | Bagian yang Dibantu | Modifikasi yang Dilakukan |
 |---|---|---|---|
-| D1 | [nama tool] | [bagian] | [cara modifikasi] |
-| D2 | ... | ... | ... |
+| D1 | - | - | - |
+| D2 | Gemini | WS07 di langkah 4 (diagram
+alir/flowchart logika program) | Bantu aku bagaimana cara
+membuat flowchart dari
+keterangan di dalam gambar
+(dengan memberikan
+screenshot user story) |
 | D3 | ... | ... | ... |
 | D4 | ... | ... | ... |
 
 ### 2. Verification Note
 | Artefak | Yang Dicek Ulang Manual | Cara Verifikasi |
 |---|---|---|
-| D1 | [angka/klaim] | [hitung ulang, cek sumber] |
-| D2 | ... | ... |
+| D1 | - | - |
+| D2 | WS07 di langkah 4 (diagram
+alir/flowchart logika program) | Cek ulang satu persatu, menambahkannya sendiri jika ada yang kurang, dan menyesuaikannya dengan project kita |
 | D3 | [sintaks & logika] | [jalankan di mesin, uji kasus] |
 | D4 | [fakta & bahasa] | [cek kebenaran isi] |
 
 ### 3. Pernyataan Kejujuran
 Kami menyatakan daftar di atas lengkap dan jujur. Seluruh output AI telah dianalisis, dimodifikasi, dan diverifikasi secara manual.
-Tanda tangan seluruh anggota: [nama] / [nama] / [nama] / [nama]
+Tanda tangan seluruh anggota: Melicha Thasqee Nasya Afizha/Eka Laili Rizki Yani/Davyan Muhamad Iqbal/Muhammad Zahwan Abdillah
 
 ## TPL-08 — Template Decision Log (Supporting Evidence)
 *Dipenuhi dari hasil WS08, WS12, WS15.*
 
 ## Decision Log
-**Project**: ... | **Tim**: ... | **Periode**: [Minggu 5–16]
+**Project**: Brillian Laundry | **Tim**: CodeSync | **Periode**: [Minggu 5–16]
 
 | # | Tanggal | Konteks | Keputusan | Alternatif yang Dipertimbangkan | Alasan | Konsekuensi |
 |---|---|---|---|---|---|---|
@@ -283,10 +289,22 @@ Tanda tangan seluruh anggota: [nama] / [nama] / [nama] / [nama]
 *Dipenuhi dari hasil WS01, WS13, WS16.*
 
 ## Meeting Log & Peer Assessment
-**Project**: ... | **Tim**: ... | **Periode**: [Minggu 1–16]
+**Project**: Brillian Laundry | **Tim**: CodeSync | **Periode**: Minggu 1–16
 
 ### 1. Kesepakatan Norma Tim & Rotasi Phase Lead
-[Norma + tabel rotasi phase lead + tanda tangan]
+Norma Tim : 
+1.	Komunikasi & Respon: Membalas pesan di grup WhatsApp tim maksimal 1 jam pada jam kerja, dan pada saat senggang wajib segera membalas pesan.
+2.	Ketepatan Waktu & Kehadiran: Datang tepat waktu pada setiap rapat tim internal maupun sesi kuliah (paling lambat 30 menit).
+3.	Kualitas & Tenggat Tugas: Mengumpulkan bagian tugas individu minimal 24 jam sebelum tenggat resmi kelompok.
+4.	Transparansi & Pembagian Beban: Mengkomunikasikan hambatan secara terbuka dan saling membantu tanpa saling menyalahkan.
+5.	Etika Penggunaan AI Co-Pilot: Mencatat from genAi pada TPL-07 dan tidak mengumpulkan hasil ai tanpa verifikasi logis.
+ 
+| No | Nama Mahasiswa | NIM | Peran/Rotasi Utama | Tanda Tangan/Persetujuan |
+|---|---|---|---|---|
+| 1 | Muhammad Zahwan Abdillah | 2600016075 | Phase Lead 1 (Discover) & Phase Lead 7 (Communicate) | |
+| 2 | Davyan Muhamad Iqbal | 2649016074 | Phase Lead 3 (Define) & Phase Lead 6 (Test)	| |
+| 3 |	Melicha Thasqee Nasya Afizha | 2600016069 | Phase Lead 2 (Frame) & Phase Lead 4 (Design) | |
+| 4 | Eka Laili Rizki Yani | 2600016056 | Phase Lead 5 (Build) & Phase Lead 8 (Reflect) | |
 
 ### 2. Log Pertemuan
 | Tanggal | Agenda | Keputusan | Tindak Lanjut | PIC |
@@ -296,12 +314,18 @@ Tanda tangan seluruh anggota: [nama] / [nama] / [nama] / [nama]
 ### 3. Log Kontribusi Anggota
 | Anggota | Peran (Fase) | Kontribusi Utama | Minggu |
 |---|---|---|---|
-| ... | ... | ... | ... |
+| Melicha Thasqee Nasya Afizha | Phase Lead 2 (Frame) & Phase Lead 4 (Design) |  | ... |
+| Eka Laili Rizki Yani | Phase Lead 2 (Frame) & Phase Lead 4 (Design) |  | ... |
+| Muhammad Zahwan Abdillah | Phase Lead 1 (Discover) & Phase Lead 7 (Communicate) |  | ... |
+| Davyan Muhamad Iqbal | Phase Lead 3 (Define) & Phase Lead 6 (Test) |  | ... |
 
 ### 4. Peer Assessment
 | Anggota | Umpan Balik (be kind, be specific, be helpful) |
 |---|---|
-| ... | ... |
+| Melicha Thasqee Nasya Afizha |  |
+| Davyan Muhamad Iqbal |  |
+| Eka Laili Rizki Yani |  |
+| Muhammad Zahwan Abdillah |  |
 
 ### 5. Refleksi Etika / Perilaku
 - Kepatuhan prosedur: ...
@@ -325,13 +349,55 @@ Tanda tangan seluruh anggota: [nama] / [nama] / [nama] / [nama]
 *Diisi per mahasiswa; format lengkap di `individual_competency_passport`.*
 
 ## Individual Competency Passport
-**Nama**: ... | **NIM**: ... | **Semester**: 1
+**Nama**: Davyan Muhamad Iqbal | **NIM**: 2649016074 | **Semester**: 1
 
 | Kompetensi | Bukti Utama | Skor (0–100) | Tingkat | Status Klaim |
 |---|---|---|---|---|
-| Problem Framing | D1 + Gate 1 | | | [ ] Klaim [ ] Penguatan [ ] Remedial |
-| System Thinking | D2 | | | [ ] Klaim [ ] Penguatan [ ] Remedial |
-| Computational Thinking | Flowchart/Pseudocode | | | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| Problem Framing | D1 + Gate 1 | 50 | Kurang Kompeten | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| System Thinking | D2 | 70 | Cukup Kompeten | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| Computational Thinking | Flowchart/Pseudocode | 80 | Kompeten | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| Programming | D3 + Gate 2 | | | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| Testing | D3 (log uji) | | | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| Communication | D4 + presentasi | | | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| Collaboration | Team evidence | | | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| AI Literacy | AI disclosure | | | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| Reflection | D4 refleksi | | | [ ] Klaim [ ] Penguatan [ ] Remedial |
+
+**Nama**: Melicha Thasqee Nasya Afizha | **NIM**: 2600016069 | **Semester**: 1
+
+| Kompetensi | Bukti Utama | Skor (0–100) | Tingkat | Status Klaim |
+|---|---|---|---|---|
+| Problem Framing | D1 + Gate 1 | 70 | Cukup Kompeten | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| System Thinking | D2 | 50 | Kurang Kompeten | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| Computational Thinking | Flowchart/Pseudocode | 40 | Kurang Kompeten | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| Programming | D3 + Gate 2 | | | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| Testing | D3 (log uji) | | | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| Communication | D4 + presentasi | | | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| Collaboration | Team evidence | | | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| AI Literacy | AI disclosure | | | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| Reflection | D4 refleksi | | | [ ] Klaim [ ] Penguatan [ ] Remedial |
+
+**Nama**: Eka Laili Rizki Yani | **NIM**: 2600016088 | **Semester**: 1
+
+| Kompetensi | Bukti Utama | Skor (0–100) | Tingkat | Status Klaim |
+|---|---|---|---|---|
+| Problem Framing | D1 + Gate 1 | 70 | Cukup Kompeten | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| System Thinking | D2 | 55 | Kurang Kompeten | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| Computational Thinking | Flowchart/Pseudocode | 50 | Kurang Kompeten | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| Programming | D3 + Gate 2 | | | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| Testing | D3 (log uji) | | | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| Communication | D4 + presentasi | | | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| Collaboration | Team evidence | | | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| AI Literacy | AI disclosure | | | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| Reflection | D4 refleksi | | | [ ] Klaim [ ] Penguatan [ ] Remedial |
+
+**Nama**: Muhammad Zahwan Abdillah | **NIM**: 2600016075 | **Semester**: 1
+
+| Kompetensi | Bukti Utama | Skor (0–100) | Tingkat | Status Klaim |
+|---|---|---|---|---|
+| Problem Framing | D1 + Gate 1 | 60 | Cukup Kompeten | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| System Thinking | D2 | 50 | Kurang Kompeten | [ ] Klaim [ ] Penguatan [ ] Remedial |
+| Computational Thinking | Flowchart/Pseudocode | 50 | Kurang Kompeten | [ ] Klaim [ ] Penguatan [ ] Remedial |
 | Programming | D3 + Gate 2 | | | [ ] Klaim [ ] Penguatan [ ] Remedial |
 | Testing | D3 (log uji) | | | [ ] Klaim [ ] Penguatan [ ] Remedial |
 | Communication | D4 + presentasi | | | [ ] Klaim [ ] Penguatan [ ] Remedial |
