@@ -1,8 +1,6 @@
 D1 — Problem Brief
 
-**Project**: Digital Problem Framing Mini Project — \Brilianeau Laundry\**Tim**: \1. Davyan Muhamad Iqbal 2. Eka Laili Rizki Yani 3. Melicha Thasqee Nasya Afizha
-
-4\. Muhammad Zahwan Abdillah\ | **Tanggal**: \30/10/2026\ | **Versi**: \v1.0\**Template**: TPL-01
+**Project**: Digital Problem Framing Mini Project — \Brilianeau Laundry\**Tim**: \1. Davyan Muhamad Iqbal 2. Eka Laili Rizki Yani 3. Melicha Thasqee Nasya Afizha 4. Muhammad Zahwan Abdillah\ | **Tanggal**: \30/10/2026\ | **Versi**: \v1.0\**Template**: TPL-01
 
 **Petunjuk**: Hapus teks dalam \[...\] dan huruf miring setelah diisi. Worksheet terkait: WS03, WS04
 

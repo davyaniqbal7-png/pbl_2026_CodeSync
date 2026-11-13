@@ -28,47 +28,49 @@ Related Files:
 *Dipenuhi dari hasil WS02–WS04.*
 
 ## Problem Brief
-**Project**: Digital Problem Framing Mini Project — [Nama Unit Usaha]
-**Tim**: [Nama anggota] | **Tanggal**: [DD/MM/YYYY] | **Versi**: [v1.0]
+**Project**: Digital Problem Framing Mini Project — Brillian Laundry
+**Tim**: Melicha Thasqee Nasya Afizha, Eka Laili Rizki Yani, Muhammad Zahwan Abdillah, Davyan Muhamad Iqbal | **Tanggal**: 30/10/2026 | **Versi**: [v1.0]
 
 ### 1. User / Context
-- Nama unit usaha / organisasi: [nama]
-- Jenis usaha / layanan: [mis. kantin kampus, warung, koperasi]
-- Lokasi: [lokasi]
-- Deskripsi operasional: [apa yang dilakukan, siapa pengguna, kapan beroperasi]
-- Narahubung / pemilik: [nama, jabatan, kontak]
+- Nama unit usaha / organisasi: Brillian Laundry
+- Jenis usaha / layanan: Laundry
+- Lokasi: Jl. Ki Ageng Pemanahan No.10,Kragilan, Tamanan, Kec. Banguntapan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55191
+- Deskripsi operasional: Melayani jasa cuci kering dan setrika pakaian,pemilik & kasir, 08:00-21:00 WIB
+- Narahubung / pemilik: Erna, Pemilik, 0882007602228
 
 ### 2. Observed Situation (Situasi yang Diamati)
-- Fenomena yang diamati di lapangan: [...]
+- Fenomena yang diamati di lapangan: Transaksi antar pelanggan dengan kasir laundry
 
 ### 3. Evidence (Bukti)
 - Data kuantitatif pendukung (indikator, nilai/baseline, sumber data, tanggal):
   | Indikator | Nilai/Baseline | Sumber Data | Tanggal |
   |---|---|---|---|
-  | [mis. waktu layanan rata-rata] | [angka] | [observasi/wawancara] | [DD/MM] |
-- Kutipan observasi/wawancara kunci: [...]
+  | Waktu layanan rata-rata | 4 | Observasi/Wawancara | 12/10 |
+- Kutipan observasi/wawancara kunci: Rata-rata waktu pelayanan bisa 7-10 menit, mulai dari timbang pakaian, apalagi saat nota kertas habis, terkadang nunggu nota yang dipesan lama datangnya, jadi nyetak sendiri otomatis satuan (tidak seperti nota asli yang ada 2 lembar), jadi harus nyatat 2 kali, kertas pertama untuk laundry dan kertas kedua untuk pelanggan.  
 
 ### 4. Insight
-- Pemahaman mengapa masalah ini terjadi: [...]
+- Pemahaman mengapa masalah ini terjadi: Karena pencatatan nota yang manual (menggunakan kertas)
 
 ### 5. Problem Statement
-- Pernyataan masalah yang jelas (bukan solusi): [...]
-- Pihak yang terdampak & keparahan: [...]
+- Pernyataan masalah yang jelas (bukan solusi): Transaksi yang masih tulis tangan sehingga menggunakan nota kertas
+- Pihak yang terdampak & keparahan: Kasir dan pelanggan, kasir berkemungkinan kehilangan data pelanggan 
+dan terkadang pelanggan ingin transaksi yang cepat ketika sedang tergesa-gesa
 
 ### 6. Impact
-- Dampak bila masalah tidak diselesaikan: [...]
+- Dampak bila masalah tidak diselesaikan: Turunnya rating mitra dan kemungkinan seringnya kehilangan data pelanggan
 
 ### 7. Scope
-- Diselesaikan dalam proyek ini: [...]
+- Diselesaikan dalam proyek ini: Mengidentifikasi beberapa masalah dari hasil wawancara, menemukan masalah utama yang berkemungkinan dapat dipertimbangkan penyelesaiannya
 
 ### 8. Non-Scope
-- Tidak diselesaikan (dan alasan): [...]
+- Tidak diselesaikan (dan alasan): Beberapa masalah yang tidak dapat diselesaikan tim seperti menyelesaikan masalah ketika musim penghujan datang sehingga laundry membutuhkan mesin yang dapat mengeringkan pakaian tanpa memerlukan sinar matahari
 
 ### 9. Success Metric
 - Metrik yang menunjukkan masalah teratasi: [...]
 
 ### 10. Daftar Rujukan / Bukti
-- [Observasi lapangan tanggal ...], [Wawancara pemilik tanggal ...], [Dokumen pendukung]
+- Observasi lapangan tanggal 08/10/2026, - Wawancara pemilik tanggal 12/10/2026 & 21/10/2026,
+- [Dokumen pendukung]
 
 ---
 
@@ -76,8 +78,8 @@ Related Files:
 *Dipenuhi dari hasil WS05–WS08.*
 
 ## System & Solution Design
-**Project**: Digital Problem Framing Mini Project — [Nama Unit Usaha]
-**Tim**: [Nama anggota] | **Tanggal**: [DD/MM/YYYY] | **Versi**: [v1.0]
+**Project**: Digital Problem Framing Mini Project — Brillian Laundry
+**Tim**: Melicha Thasqee Nasya Afizha, Eka Laili Rizki Yani, Muhammad Zahwan Abdillah, Davyan Muhamad Iqbal | **Tanggal**: 11/11/2026 | **Versi**: [v1.0]
 
 ### 1. User
 - Pengguna utama solusi & yang terdampak: [...]
@@ -85,11 +87,16 @@ Related Files:
 ### 2. User Story
 | # | User Story | Prioritas (Tinggi/Sedang/Rendah) |
 |---|---|---|
-| 1 | Sebagai [peran], saya ingin [fitur] sehingga [manfaat] | [ ] |
-| 2 | ... | ... |
+| 1 | Sebagai Kasir laundry. Saya ingin pencatatan nota penjualan dilakukan secara cepat. Sehingga tidak perlu mencatat nota secara manual (menggunakan kertas dan tulis tangan) dan transaksi dapat langsung tercatat secara otomatis serta menghindari kesalahan/kehilangan data. | Tinggi |
+| 2 | Sebagai Pemilik laundry. Saya ingin tidak ada pakaian pelanggan yang tertukar ataupun hilang. Sehingga pelanggan tidak merasa cemas akan tertukar atau hilangnya pakaian dan saya tidak perlu mengganti rugi. | Sedang |
+| 3 | Sebagai Pemilik laundry. Saya ingin melakukan pengecekan laporan keuangan secara cepat dan lebih teliti Sehingga saya tidak perlu kesusahan mengecek secara manual dan menghindari kesalahan penghitungan. | Sedang |
 
 ### 3. Requirements
-- Daftar kebutuhan yang diturunkan dari D1: [...]
+- Daftar kebutuhan yang diturunkan dari D1: 
+1. Memberikan sistem digital yang dapat merekap nota pelanggan secara otomatis.
+2. Output dari sistem adalah nota digital yang langsung terkirim ke nomor WhatsApp pelanggan.
+3. Sistem pelacakan status cucian dengan QR code.
+
 
 ### 4. Acceptance Criteria
 | # | Kriteria Penerimaan (terukur & dapat diuji) |
@@ -100,7 +107,10 @@ Related Files:
 ### 5. Success Metric
 | Metrik | Baseline | Target | Cara Mengukur |
 |---|---|---|---|
-| [metrik] | [angka] | [angka] | [cara ukur] |
+| Waktu pencatatan | 5 menit | < 3 menit | Stopwatch sampel 10 transaksi |
+| Rekapitulasi harian | 1,5 jam / malam | 30 menit / malam | Wawancara & uji coba langsung |
+| Pencatatan stok | Tidak ada pencatatan | Dicatat perminggu | Stock opname bulanan |
+| Kesalahan hitung | 3 kali / minggu | 0 kali / minggu | Audit sampel lembar nota |
 
 ### 6. Input-Process-Output (IPO)
 - Input: ...
@@ -250,12 +260,7 @@ Related Files:
 | Artefak | Tool AI | Bagian yang Dibantu | Modifikasi yang Dilakukan |
 |---|---|---|---|
 | D1 | - | - | - |
-| D2 | Gemini | WS07 di langkah 4 (diagram
-alir/flowchart logika program) | Bantu aku bagaimana cara
-membuat flowchart dari
-keterangan di dalam gambar
-(dengan memberikan
-screenshot user story) |
+| D2 | Gemini | WS07 di langkah 4 (diagram alir/flowchart logika program) | Bantu aku bagaimana cara membuat flowchart dari keterangan di dalam gambar (dengan memberikan screenshot user story) |
 | D3 | ... | ... | ... |
 | D4 | ... | ... | ... |
 
@@ -263,8 +268,7 @@ screenshot user story) |
 | Artefak | Yang Dicek Ulang Manual | Cara Verifikasi |
 |---|---|---|
 | D1 | - | - |
-| D2 | WS07 di langkah 4 (diagram
-alir/flowchart logika program) | Cek ulang satu persatu, menambahkannya sendiri jika ada yang kurang, dan menyesuaikannya dengan project kita |
+| D2 | WS07 di langkah 4 (diagram alir/flowchart logika program) | Cek ulang satu persatu menambahkannya sendiri jika ada yang kurang, dan menyesuaikannya dengan project kita |
 | D3 | [sintaks & logika] | [jalankan di mesin, uji kasus] |
 | D4 | [fakta & bahasa] | [cek kebenaran isi] |
 
